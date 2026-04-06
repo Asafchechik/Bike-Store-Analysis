@@ -5,44 +5,38 @@ This project features a comprehensive **Tableau Dashboard** designed to analyze 
 
 ---
 
-## 📊 Interactive Dashboard Highlights
+## 🚀 Live Interactive Dashboard
+**[Click Here to View the Full Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/asaf.chechik/viz/BikeStoreDashboard_17300577989660/Dashboard1)**
+
+---
+
+## 📊 Dashboard Highlights
 The dashboard provides a multi-dimensional view of the business:
 
-* **Revenue Trends:** A time-series analysis comparing yearly and monthly performance to identify seasonality and growth patterns.
-* **Geographic Distribution:** A map-based visualization of sales across US states (California, Texas, and New York), highlighting top-performing regions.
-* **Category & Brand Breakdown:** Insights into which product segments (Mountain Bikes, Road Bikes, etc.) and brands drive the highest profit margins.
+* **Revenue Trends:** Time-series analysis comparing yearly and monthly performance to identify seasonality and growth patterns.
+* **Geographic Distribution:** Map-based visualization of sales across US states, highlighting top-performing regions.
+* **Category & Brand Breakdown:** Insights into product segments (Mountain Bikes, Road Bikes, etc.) and brand performance.
 * **Operational Metrics:** Tracking Key Performance Indicators (KPIs) such as Total Revenue, Order Volume, and Average Units per Order.
-* **Performance Rankings:** Top-performing stores and sales representatives to identify best practices and areas for improvement.
+* **Performance Rankings:** High-level overview of stores and sales representatives to identify top performers.
 
 ---
 
 ## 🛠️ Tools & Technologies
-* **Tableau:** Used for advanced data visualization, dashboard interactivity, and UI/UX design.
-* **Excel:** Data cleaning and initial formatting (including date standardization).
-* **BigQuery (Optional/Scale):** Knowledge of handling large datasets (6.4M+ records) for high-performance reporting.
+* **Tableau Public:** Used for cloud-based data visualization, dashboard interactivity, and reporting.
+* **Excel:** Data preparation, cleaning, and formatting (including date standardization).
+* **Data Storytelling:** Translating complex datasets into clear, visual business narratives.
 
 ---
 
 ## 📈 Key Insights
-* **Seasonality:** Identified peak sales periods during spring and summer months, aligning with outdoor activity trends.
-* **Regional Dominance:** California emerged as the leading state in revenue, suggesting a concentrated market presence.
-* **Product Performance:** Premium brands showed higher profit margins despite lower unit volume compared to entry-level categories.
+* **Seasonality:** Identified peak sales periods, aligning with outdoor activity cycles.
+* **Regional Dominance:** Clear visualization of geographic revenue concentration to support market expansion strategies.
+* **Product Performance:** Analysis of brand margins vs. sales volume to optimize inventory focus.
 
 ---
 
 ## 📂 Project Structure
-* `Cycling-Retail-Analysis.twb`: The main Tableau workbook file.
-* `data/`: Directory containing the cleaned dataset (CSV/Excel).
-* `screenshots/`: Visual previews of the dashboard for quick viewing.
+* `data/`: Directory containing the cleaned datasets (Excel format).
+* `README.md`: Project documentation and business insights.
 
----
 
-## 🚀 How to View
-1.  Download the `.twb` file from this repository.
-2.  Open it using **Tableau Desktop** or **Tableau Public**.
-3.  Alternatively, [Insert Link to Tableau Public if available] to interact with the dashboard online.
-
----
-
-## 👤 Contact
-**Asaf Chechik** *Analyst* [LinkedIn Profile Link] | [Email Address]
