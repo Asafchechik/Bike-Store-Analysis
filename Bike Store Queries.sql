@@ -1,4 +1,4 @@
---Bike Store Analysis 
+--Cycling Retail Analysis Analysis 
 --1. Sales and Orders Analysis 
 --Total Revenue and Quantity Sold: 
 SELECT CAST(ROUND(SUM(list_price * (1 - discount) * quantity), 0) AS DECIMAL(10,2)) AS Total_revenue 
